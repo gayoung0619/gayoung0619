@@ -16,7 +16,7 @@
 
 <h3 align="center"><b>👩‍💻 My Github Stats 👩‍💻</b></h3>
 <p align="center">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=solarized-light)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&theme=solarized-light)
 </p>
 
 
