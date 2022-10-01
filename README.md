@@ -18,14 +18,12 @@
 
 
 <h3 align="center"><b>👩‍💻 My Github Stats 👩‍💻</b></h3>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&show_icons=true&theme=cobalt)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&show_icons=true&theme=cobalt)
+
 
 
 <h3 align="center"><b>👩‍💻 My Github Languages 👩‍💻</b></h3>
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact&theme=cobalt)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact&theme=cobalt)
+
 
 
