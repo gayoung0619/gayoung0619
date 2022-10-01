@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center"><b>tech stack</b></h3>
+<h3 align="center"><b>Tech stack</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
-<h3 align="center"><b>cowork stack</b></h3>
+<h3 align="center"><b>Cowork tools</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -21,12 +21,12 @@
 
 
 <h3 align="center"><b>My Github Stats</b></h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&show_icons=true&theme=cobalt)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619)]
 
 
 
 <h3 align="center"><b>My Languages</b></h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact)]
 
 
 
