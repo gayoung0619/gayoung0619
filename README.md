@@ -14,9 +14,10 @@
 
 
 
-<h3 align="center"><b>👩‍💻 My Github Stats 👩‍💻</b></h3>
-<p align="center">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&theme=solarized-light)
-</p>
 
+<h3 align="center"><b>👩‍💻 My Github Stats 👩‍💻</b></h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&show_icons=true&theme=cobalt)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact&theme=cobalt)
 
