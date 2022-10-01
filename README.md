@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Gayoung's%20GitHub&fontSize=70&animation=scaleIn)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Gayoung's%20GitHub&fontSize=70&animation=scaleIn)
+</div>
+
 
 <h3 align="center"><b>💌 Skill stack 💌 </b></h3>
 <p align="center">
@@ -13,11 +16,16 @@
 </p>
 
 
+<div align="center">
+  <b>👩‍💻 My Github Stats 👩‍💻</b>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&show_icons=true&theme=cobalt)
+</div>
 
 
-<h3 align="center"><b>👩‍💻 My Github Stats 👩‍💻</b></h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoung0619&show_icons=true&theme=cobalt)
 
+<div align="center">
+  <b>👩‍💻 My Github Stats 👩‍💻</b>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact&theme=cobalt)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoung0619&layout=compact&theme=cobalt)
 
