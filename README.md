@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Gayoung's%20GitHub&fontSize=70&animation=scaleIn)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=프론트엔드개발자양가영입니다&fontSize=70&animation=scaleIn)
   
 </div>
 
