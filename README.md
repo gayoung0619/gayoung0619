@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=개발자&nbsp;양가영입니다&fontSize=70&animation=scaleIn)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GaYoung&fontAlign=74&fontAlignY=40&color=gradient)
   
 </div>
 
